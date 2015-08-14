@@ -10,7 +10,13 @@ namespace CSExercises
     {
         public static void Main(string[] args)
         {
-            
+            double number  = 0;
+            double square = 0;
+
+            System.Console.Write("Enter a decimal number : ");
+            number = Convert.ToDouble(System.Console.ReadLine());
+            square = number * number;
+            System.Console.WriteLine("The square of {0} is {1} " , number ,square);
         }
     }
 }
