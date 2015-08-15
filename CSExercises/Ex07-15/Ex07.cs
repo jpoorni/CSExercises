@@ -23,8 +23,6 @@ namespace CSExercises
             dblTotalIncome = dblSalary + dblHousingAllowance + dblTransportAllowance;
 
             System.Console.WriteLine("\nTotal Income = {0:C}" ,dblTotalIncome);
-
-
         }
     }
 }
