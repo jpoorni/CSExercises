@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Enter a double precision number and find its square
+
 namespace CSExercises
 {
     public class Ex03

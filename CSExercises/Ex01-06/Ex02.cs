@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Read a number and find its square
+
 namespace CSExercises
 {
     public class Ex02
