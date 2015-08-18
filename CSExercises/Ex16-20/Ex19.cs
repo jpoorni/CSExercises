@@ -21,6 +21,11 @@ namespace CSExercises
             {
                 dblTaxiFare = 2.40;
             }
+            else if (dblTemp1 > 0.05 && dblTemp1 <= 8.5 )
+            {
+                double t = (dblTemp1 - 0.5) * 10;
+                dblTaxiFare = 2.40 + (t * 0.04);
+            }
             else
             {
                 dblDistance = Math.Round(dblTemp1, 2);
