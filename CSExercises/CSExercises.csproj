@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSExercises.Ex34</StartupObject>
+    <StartupObject>CSExercises.Ex35B</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -82,6 +82,7 @@
     <Compile Include="Ex32-34\Ex32.cs" />
     <Compile Include="Ex32-34\Ex33.cs" />
     <Compile Include="Ex32-34\Ex34.cs" />
+    <Compile Include="Ex35-38\Ex35B.cs" />
     <Compile Include="Ex35-38\Ex35.cs" />
     <Compile Include="Ex35-38\Ex36.cs" />
     <Compile Include="Ex35-38\Ex37.cs" />
